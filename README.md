@@ -17,4 +17,4 @@ Glocel Cloud Hub Client Flutter application.
 
 
 ## Link to Django Server code
-https://github.com/RoyArka/Django_gloocel
+https://github.com/RoyArka/Gloocel_Django_Demo
