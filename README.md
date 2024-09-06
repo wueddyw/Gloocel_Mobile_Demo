@@ -2,6 +2,8 @@
 
 Glocel Cloud Hub Client Flutter application.
 
+![Main Image](https://github.com/wueddyw/Gloocel_Django_Demo/blob/master/Gloocel_images/4.png)
+
 ## Codebase filesystem (/lib)
 
 /components - The flutter components of the application
