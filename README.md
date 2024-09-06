@@ -3,7 +3,7 @@
 Glocel Cloud Hub Client Flutter application.
 
 
-<p align="center">
+<p align="left">
   <img width = "175px" src="https://github.com/wueddyw/Gloocel_Django_Demo/blob/master/Gloocel_images/4.png"/>
 </p>
 
